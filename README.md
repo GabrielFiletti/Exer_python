@@ -1,1 +1,1 @@
-# Exercícios referntes as aulas de Python
+# Exercícios referentes as aulas de Python
